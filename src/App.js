@@ -10,8 +10,8 @@ function App() {
           <img src={gwen} className='gwen' alt="gwenmmm"/>
         </div>
           <ul>
-            <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">About</a></li>
-            <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Projects</a></li>
+            <li><a href="#About">About</a></li>
+            <li><a href="#Projects">Projects</a></li>
             <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Contact</a></li>
           </ul>
       </header>
